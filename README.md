@@ -12,3 +12,6 @@ Lecture 03: Python Data Types and String Manipulation
 - Python data types: String, Integer, Float, Boolean
 - Mathematical Operations, Comparison Operators, Logical Operators, and Membership Operators
 - String manipulation
+
+Lecture 04: Python data structure
+- Python Data Structure: List, tuple, dictionary, set
