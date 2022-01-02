@@ -15,3 +15,8 @@ Lecture 03: Python Data Types and String Manipulation
 
 Lecture 04: Python data structure
 - Python Data Structure: List, tuple, dictionary, set
+
+Lecture 05: Conditional logic, loop and writing functions in Python
+- How to write if-else, while and for loop in Python
+- Writing functions in Python
+- LeetCode problems
