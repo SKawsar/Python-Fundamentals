@@ -20,3 +20,9 @@ Lecture 05: Conditional logic, loop and writing functions in Python
 - How to write if-else, while and for loop in Python
 - Writing functions in Python
 - LeetCode problems
+
+Lecture 6: LeetCode Problems
+- Math functions
+- Application of list, set, and dictionary
+- Solving same problem in multiple ways
+- LeetCode problems: HW 2 solution
