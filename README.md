@@ -26,3 +26,9 @@ Lecture 6: LeetCode Problems
 - Application of list, set, and dictionary
 - Solving same problem in multiple ways
 - LeetCode problems: HW 2 solution
+
+Lecture 07: Mathematical operations in Python: NumPy
+- Comparison between List and NumPy array
+- 1D and 2D NumPy array
+- Mathematical and Matrix operation in NumPy array
+- NumPy array slicing and filtering
