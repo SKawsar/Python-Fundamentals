@@ -32,3 +32,10 @@ Lecture 07: Mathematical operations in Python: NumPy
 - 1D and 2D NumPy array
 - Mathematical and Matrix operation in NumPy array
 - NumPy array slicing and filtering
+
+Lecture 08: Data Analysis in Python: Pandas
+- How to look at the data?
+- Good data or bad data?
+- How to read a csv file
+- How to check data types and is there any missing values?
+- Data Statistics
