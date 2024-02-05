@@ -1,6 +1,7 @@
 I taught Python to 200+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
 
 Video Lectures on Youtube: https://lnkd.in/g2nFUxZe
+
 Medium blogs for pandas: https://kawsar34.medium.com/list/learn-pandas-from-leetcode-a06903853aed
 
 # Fundamentals of Programming with Python
