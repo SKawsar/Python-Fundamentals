@@ -1,9 +1,11 @@
 I taught Python to 200+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
 
+Video Lectures on Youtube: https://lnkd.in/g2nFUxZe
+
 # Fundamentals of Programming with Python
 
 Lecture 01: Introduction to Python
-- Familiarity with Google Colab, Anaconda, jupyter notebook, and Github
+- Familiarity with Google Colab, Anaconda, Jupyter Notebook, and GitHub
 - Learn logical thinking by playing blockly games: Maze
 - Learn about Python data types and basic Mathematical Operations
 
@@ -18,7 +20,7 @@ Lecture 03: Python Data Types and String Manipulation
 Lecture 04: Python data structure
 - Python Data Structure: List, tuple, dictionary, set
 
-Lecture 05: Conditional logic, loop and writing functions in Python
+Lecture 05: Conditional logic, loop, and writing functions in Python
 - How to write if-else, while and for loop in Python
 - Writing functions in Python
 - LeetCode problems
@@ -26,7 +28,7 @@ Lecture 05: Conditional logic, loop and writing functions in Python
 Lecture 6: LeetCode Problems
 - Math functions
 - Application of list, set, and dictionary
-- Solving same problem in multiple ways
+- Solving the same problem in multiple ways
 - LeetCode problems: HW 2 solution
 
 Lecture 07: Mathematical operations in Python: NumPy
