@@ -1,3 +1,5 @@
+I taught Python to 200+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
+
 # Fundamentals of Programming with Python
 
 Lecture 01: Introduction to Python
